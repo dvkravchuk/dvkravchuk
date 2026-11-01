@@ -9,7 +9,7 @@
 
 <h3 align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/dmikrv/">
+    <a href="https://www.linkedin.com/in/dvkravchuk/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/dmitrykravchuk">
